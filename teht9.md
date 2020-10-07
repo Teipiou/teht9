@@ -6,3 +6,5 @@ Twitter on netissä tomiiva sosiaalisen median plavelu jossa käyttäjät pystyv
 1. Käyttäjän voi tehdä helposti netissä
 2. Etusivulla näkyy uusimmat julkaisut ihmisiltä joita seuraat
 3. Etusivulla ylhäällä pystyy kirjottamaan "twiitin"
+
+![alt text](tämätietokone/kuvat/twitterfeed.png)

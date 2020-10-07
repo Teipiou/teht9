@@ -7,4 +7,4 @@ Twitter on netissä tomiiva sosiaalisen median plavelu jossa käyttäjät pystyv
 2. Etusivulla näkyy uusimmat julkaisut ihmisiltä joita seuraat
 3. Etusivulla ylhäällä pystyy kirjottamaan "twiitin"
 
-![alt text](tämätietokone/kuvat/twitterfeed.png)
+!(tämätietokone/kuvat/twitterfeed.png)
